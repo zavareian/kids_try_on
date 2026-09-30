@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix فروشگاه لباس کودک بامبو کیدز جدیدنر",
+  "description": "فروشگاه آنلاین تخصصی لباس کودک با قابلیت هوشمند پرو لباس مجازی، پوشاک باکیفیت و ارگانیک، و ارسال سریع به سراسر کشور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
